@@ -1,14 +1,9 @@
-### Hi there 👋
+## 🔭: Who am I?
+- **Name:** Masayuki Yamaguchi (山口 正行)
+- **Job:** Postdoc at Academia Sinica Institute of Astronomy and Astrophysics (ASIAA), Taiwan
+- **Interests:** Planet formation; circumstellar disk structure and its evolution. Radio astronomy; aperture synthesis and imaging techniques for radio Interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Y-Masayuki&theme=prussian&show_icons=true" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Y-Masayuki&theme=prussian&show_icons=true"/>
-</a>
-
-prussian
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Y-Masayuki&theme=prussian&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **Y-Masayuki/Y-Masayuki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
