@@ -10,7 +10,3 @@
 
 ## :mag_right: Working Group
 - [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
-
-## :mag_right: My Current Study
-- Publishing our recent research. Title: Substructure Survey of Taurus-Auriga Protoplanetary Disks with ALMA Super-resolution Imaging
-- Developing ALMA super-resolution "Spectral line" imaging
