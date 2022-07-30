@@ -7,6 +7,7 @@
 - [ALMA Super-resolution Imaging of T Tau: r = 12 au Gap in the Compact Dust Disk around T Tau N
 ](https://iopscience.iop.org/article/10.3847/1538-4357/ac2bfd)(Yamaguchi et al. 2021, The Astrophysical Journal)
 - [Super-resolution Imaging of the Protoplanetary Disk HD 142527 Using Sparse Modeling](https://iopscience.iop.org/article/10.3847/1538-4357/ab899f)(Yamaguchi et al. 2020, The Astrophysical Journal)
+- Substructure Survey of Taurus-Auriga Protoplanetary Disks with ALMA Super-resolution Imaging(Yamaguchi in prep.)
 
 ## :mag_right: Working Group
 - [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
