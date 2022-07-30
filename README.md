@@ -1,7 +1,7 @@
 ## 🔭 Who am I?
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese
 - **Job:** Postdoc (Feb 2022~present) at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)](http://www.asiaa.sinica.edu.tw/index.php), Taiwan
-- **Interests:** Planet formation; circumstellar disk structure and its evolution. Radio astronomy; aperture synthesis and imaging techniques for radio Interferometers. Statistical mathematics (sparse modeling) and machine learning.
+- **Interests:** Planet formation; circumstellar disk structure and its evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning. Astronomy outreach.
 
 ## :mag_right: Featured publication
 - [ALMA Super-resolution Imaging of T Tau: r = 12 au Gap in the Compact Dust Disk around T Tau N
