@@ -2,8 +2,9 @@
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese astronomer
 - **Job:** Postdoc (Feb 2022~present) at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)](http://www.asiaa.sinica.edu.tw/index.php), Taiwan
 - 
-- **Interests:** Planet formation (惑星形成);　the morphology of protoplanetary disks　（原始惑星系円盤の形態学）, disk substructure (円盤の下部構造)、　disk evolution (円盤の進化).
-- Radio astronomy　(電波天文学); aperture synthesis and imaging techniques for radio interferometers (電波干渉計のための開口合成とイメージング技術). Statistical mathematics (sparse modeling) and machine learning (統計数学（スパースモデリング）と機械学習).
+- **Interests:** Planet formation;　the morphology of protoplanetary disks, disk substructure、　and disk evolution.
+- Radio astronomy; aperture synthesis and imaging techniques for radio interferometers.
+- Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publication
 - [
