@@ -1,7 +1,6 @@
 ## 🔭 Who am I?
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese astronomer
 - **Job:** Postdoc (Feb 2022~present) at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)](http://www.asiaa.sinica.edu.tw/index.php), Taiwan
-- 
 - **Interests:** Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publication
