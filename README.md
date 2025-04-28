@@ -3,7 +3,8 @@
 - **Job:** Postdoc (Feb 2022~present) at [Academia Sinica Institute of Astronomy and Astrophysics (ASIAA)](http://www.asiaa.sinica.edu.tw/index.php), Taiwan
 - **Job:** NAOJ Project Assistant Professor stationed at Kyushu University (June 2025~), Japan
 
-- **Interests:** Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
+- **Interests: (Data Science × Astronomy)** 
+- Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publication
 - [
