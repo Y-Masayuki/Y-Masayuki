@@ -4,6 +4,7 @@
 - **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publication
+- Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi (Yamaguchi et al. 2025, The Astrophysical Journal)
 - [
 ALMA 2D Super-resolution Imaging Survey of Ophiuchus Class I/Flat Spectrum/II Disks - I: Discovery of New Disk Substructures
 ](https://ui.adsabs.harvard.edu/abs/2025arXiv250321060S/abstract)(Shoshi and Yamaguchi et al. 2025, Publications of the Astronomical Society of Japan)
