@@ -1,6 +1,6 @@
 ## 🔭 Who am I?
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese.
-- **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://jupiter.geo.kyushu-u.ac.jp), Japan
+- **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://jupiter.geo.kyushu-u.ac.jp), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
 - **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
