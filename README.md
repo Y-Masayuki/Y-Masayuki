@@ -20,6 +20,6 @@ ALMA 2D Super-resolution Imaging of Taurus-Auriga Protoplanetary Disks: Probing 
 ## :mag_right: Working Group
 - [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
 
-## :mag_right: Grants
-- KAKEN [A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging, April 2026 - March 2029](https://kaken.nii.ac.jp/ja/grant/KAKENHI-PROJECT-26K17220/)
+## :mag_right: Competitive Research Grants
+- KAKEN: Grant-in-Aid for Early-Career Scientists[A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging, April 2026 - March 2029](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K17220/)
 
