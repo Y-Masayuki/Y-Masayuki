@@ -2,7 +2,7 @@
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese.
 - **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://jupiter.geo.kyushu-u.ac.jp/theory/), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
-- **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
+- **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning, making you laugh.
 
 ## :mag_right: Featured publication
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
