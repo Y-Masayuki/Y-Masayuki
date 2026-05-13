@@ -5,6 +5,10 @@
 - **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publication
+
+- [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, arxiv)
+
+
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
 - [
 ALMA 2D Super-resolution Imaging Survey of Ophiuchus Class I/Flat Spectrum/II Disks - I: Discovery of New Disk Substructures
