@@ -6,8 +6,7 @@
 
 ## :mag_right: Featured publication
 
-- [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, arxiv)
-
+- [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026)
 
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
 - [
