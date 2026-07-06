@@ -5,7 +5,7 @@
 - **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
 
 ## :mag_right: Featured publications (first or second author)
-- [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, , The Astrophysical Journal, accepted)
+- [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, The Astrophysical Journal, accepted)
 - [ALMA 2D super-resolution imaging survey of Ophiuchus Class I/flat spectrum/II disks. II. Statistical analysis of stellar and disk properties](https://arxiv.org/abs/2606.18653) (Shoshi and Yamaguchi et al. 2026, Publications of the Astronomical Society of Japan, accepted)
 - [Ring-gap Structures in the Class I Circumstellar Disk of CrA IRS 2 Associated with the  Magnetic Flux-driven Bubble]( https://iopscience.iop.org/article/10.3847/1538-4357/ae394a) (Shoshi and Yamaguchi et al. 2026, The Astrophysical Journal)
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
