@@ -20,6 +20,6 @@
 ## :mag_right: Working Group
 - [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
 
-## :mag_right: Competitive Research Grants
+## :mag_right: Ongoing Competitive Research Grants
 - KAKEN: Grant-in-Aid for Early-Career Scientists (PI), Subject: [A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K17220/), April 2026 - March 2028
 - KAKEN: Grant-in-Aid for Scientific Research (B) (Co-PI), Subject: [Systematic Observations of Cold Atomic Gas: The Key to Unraveling the Star Formation History of Galactic Cluster Centers](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K00741/), April 2026 - March 2030
