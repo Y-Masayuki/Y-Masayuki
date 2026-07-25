@@ -19,7 +19,7 @@
 ## :mag_right: Featured Articles (Japanese)
 - **Feature article in *The Astronomical Herald* (Tenmon Geppo, Astronomical Society of Japan)**　[PRIISM Science: Probing Substructures
 in Protoplanetary Disks (in Japanese)
-](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf)(Yamaguchi and Shoshi. 2026
+](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf)(Yamaguchi and Shoshi. 2026)
 
 ## :mag_right: Ongoing Competitive Research Grants
 - KAKEN: Grant-in-Aid for Early-Career Scientists (PI), Subject: [A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K17220/), April 2026 - March 2028
