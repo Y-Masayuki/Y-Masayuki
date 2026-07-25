@@ -17,7 +17,7 @@
 - [Super-resolution Imaging of the Protoplanetary Disk HD 142527 Using Sparse Modeling](https://iopscience.iop.org/article/10.3847/1538-4357/ab899f)(Yamaguchi et al. 2020, The Astrophysical Journal)
 
 ## :mag_right: Featured Articles
-- **Feature article in *The Astronomical Herald* (Tenmon Geppo, Astronomical Society of Japan)**　[PRIISM Science: Probing Substructures
+- **Feature article in *The Astronomical Herald* (Tenmon Geppo 天文月報, Astronomical Society of Japan)**　[PRIISM Science: Probing Substructures
 in Protoplanetary Disks (in Japanese)
 ](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf)(Yamaguchi and Shoshi. 2026)
 
