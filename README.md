@@ -2,7 +2,7 @@
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese (Dr., Mr.)
 - **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
-- **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics (sparse modeling) and machine learning.
+- **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics and machine learning.
 
 ## :mag_right: Featured publications (first or second author)
 - [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, The Astrophysical Journal, accepted)
@@ -16,10 +16,15 @@
 - [ALMA Super-resolution Imaging of T Tau: r = 12 au Gap in the Compact Dust Disk around T Tau N](https://iopscience.iop.org/article/10.3847/1538-4357/ac2bfd)(Yamaguchi et al. 2021, The Astrophysical Journal)
 - [Super-resolution Imaging of the Protoplanetary Disk HD 142527 Using Sparse Modeling](https://iopscience.iop.org/article/10.3847/1538-4357/ab899f)(Yamaguchi et al. 2020, The Astrophysical Journal)
 
-
-## :mag_right: Working Group
-- [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
+## :mag_right: Featured Articles (Japanese)
+- **Feature article in *The Astronomical Herald* (Tenmon Geppo, Astronomical Society of Japan)**　[PRIISM Science: Probing Substructures
+in Protoplanetary Disks (in Japanese)
+](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf)(Yamaguchi and Shoshi. 2026
 
 ## :mag_right: Ongoing Competitive Research Grants
 - KAKEN: Grant-in-Aid for Early-Career Scientists (PI), Subject: [A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K17220/), April 2026 - March 2028
 - KAKEN: Grant-in-Aid for Scientific Research (B) (Co-PI), Subject: [Systematic Observations of Cold Atomic Gas: The Key to Unraveling the Star Formation History of Galactic Cluster Centers](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K00741/), April 2026 - March 2030
+
+## :mag_right: Working Group
+- [PRIISM: Python Module for Radio Interferometry Imaging with Sparse Modeling](https://github.com/tnakazato/priism)
+
