@@ -2,7 +2,7 @@
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese (Dr., Mr.)
 - **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
-- **Interests:**  Protoplanetary disks; morphology, substructure, and evolution. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics and machine learning.
+- **Interests:** Star and planet formation; protoplanetary disk and its substructure and evolution, protoplanet, outflow mechanism, a single or multiple star formation mechanism. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics and machine learning.
 
 ## :mag_right: Featured publications (first or second author)
 - [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://arxiv.org/abs/2605.11486) (Yamaguchi et al. 2026, The Astrophysical Journal, accepted)
