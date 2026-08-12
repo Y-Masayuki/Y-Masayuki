@@ -3,6 +3,7 @@
 - **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
 - **Interests:** Star and planet formation; protoplanetary disk and its substructure and evolution, protoplanet, outflow mechanism, a single or multiple star formation mechanism. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Statistical mathematics and machine learning.
+- **PI of the ALMA large program BRIDGE**: Bridging embedded and evolved disks by Resolving Internal Disk andGlobal Envelope structures
 
 ## :mag_right: Featured publications (first or second author)
 - [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://iopscience.iop.org/article/10.3847/1538-4357/ae819b) (Yamaguchi et al. 2026, The Astrophysical Journal)
