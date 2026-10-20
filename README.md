@@ -22,7 +22,7 @@
 in Protoplanetary Disks (in Japanese)
 ](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf)(Yamaguchi and Shoshi. 2026)
 - **Press release from Kyushu University**　[Ring Patterns Hint at an Unseen Planet and Self-Gravitational Dust Concentration (in Japanese)](https://www.kyushu-u.ac.jp/ja/researches/view/1597) (Yamaguchi, 2026)
-- 
+  
 ## :mag_right: Ongoing Competitive Research Grants
 - KAKEN: Grant-in-Aid for Early-Career Scientists (PI), Subject: [A Statistical Study of the Diversity of Substructures in Protoplanetary Disks Using ALMA Super-resolution Imaging](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K17220/), April 2026 - March 2028
 - KAKEN: Grant-in-Aid for Scientific Research (B) (Co-PI), Subject: [Systematic Observations of Cold Atomic Gas: The Key to Unraveling the Star Formation History of Galactic Cluster Centers](https://kaken.nii.ac.jp/en/grant/KAKENHI-PROJECT-26K00741/), April 2026 - March 2030
