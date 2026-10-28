@@ -2,12 +2,12 @@
 - **Name:** Masayuki Yamaguchi (山口 正行), Japanese (Dr., Mr.)
 - **Job:** NAOJ Project Assistant Professor (June 2025~present) stationed at [Kyushu University](https://www.kyushu-u.ac.jp/en/), Japan.
 - **Career** Ph.D at U.Tokyo, Japan (2022) → Postdoc / EA-ARC staff at ASIAA, Taiwan (2022- 2025) → Now.
-- **Interests:**Interests: Star and planet formation; protoplanetary disk and its substructure and evolution, protoplanet, streamer and outflow mechanisms, a single or multiple star formation mechanism. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Development of open calibration and imaging tools. Statistical mathematics and machine learning.
+- **Interests** Star and planet formation; protoplanetary disk and its substructure and evolution, protoplanet, streamer and outflow mechanisms, a single or multiple star formation mechanism. Radio astronomy; aperture synthesis and imaging techniques for radio interferometers. Development of open calibration and imaging tools. Statistical mathematics and machine learning.
 - **[PI of the ALMA large program BRIDGE](https://almascience.nao.ac.jp/alma-data/lp)**: Bridging embedded and evolved disks by Resolving Internal Disk and Global Envelope structures
 
 ## :mag_right: Featured publications (first or second author)
 - [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://iopscience.iop.org/article/10.3847/1538-4357/ae819b) (Yamaguchi et al. 2026, The Astrophysical Journal)
-- [A Warped Dust Ring in the CQ Tau Disk](https://arxiv.org/pdf/2610.35548)(Ishibashi and Yamaguchi et al. 2026, The Astrophysical Journal)
+- [A Warped Dust Ring in the CQ Tau Disk](https://arxiv.org/pdf/2610.35548) (Ishibashi and Yamaguchi et al. 2026, The Astrophysical Journal)
 - [ALMA 2D super-resolution imaging survey of Ophiuchus Class I/flat spectrum/II disks. II. Statistical analysis of stellar and disk properties](https://academic.oup.com/pasj/advance-article/doi/10.1093/pasj/psag087/8738059?searchresult=1) (Shoshi and Yamaguchi et al. 2026, Publications of the Astronomical Society of Japan)
 - [Ring-gap Structures in the Class I Circumstellar Disk of CrA IRS 2 Associated with the  Magnetic Flux-driven Bubble]( https://iopscience.iop.org/article/10.3847/1538-4357/ae394a) (Shoshi and Yamaguchi et al. 2026, The Astrophysical Journal)
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
