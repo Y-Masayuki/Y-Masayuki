@@ -7,6 +7,7 @@
 
 ## :mag_right: Featured publications (first or second author)
 - [A Hybrid Origin for the Multiple Ring-Gap Structures in the Large Protoplanetary Disk V1094 Sco: A Low-Mass Planet and Secular Gravitational Instability](https://iopscience.iop.org/article/10.3847/1538-4357/ae819b) (Yamaguchi et al. 2026, The Astrophysical Journal)
+- [A Warped Dust Ring in the CQ Tau Disk](https://arxiv.org/pdf/2610.35548)(Ishibashi and Yamaguchi et al. 2026, The Astrophysical Journal)
 - [ALMA 2D super-resolution imaging survey of Ophiuchus Class I/flat spectrum/II disks. II. Statistical analysis of stellar and disk properties](https://academic.oup.com/pasj/advance-article/doi/10.1093/pasj/psag087/8738059?searchresult=1) (Shoshi and Yamaguchi et al. 2026, Publications of the Astronomical Society of Japan)
 - [Ring-gap Structures in the Class I Circumstellar Disk of CrA IRS 2 Associated with the  Magnetic Flux-driven Bubble]( https://iopscience.iop.org/article/10.3847/1538-4357/ae394a) (Shoshi and Yamaguchi et al. 2026, The Astrophysical Journal)
 - [Peculiar Disk Substructures Associated with the Young Eruptive Star EX Lupi](https://arxiv.org/abs/2508.14367) (Yamaguchi et al. 2025, The Astrophysical Journal)
