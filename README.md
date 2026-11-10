@@ -20,7 +20,7 @@
 
 ## :mag_right: Featured Articles
 - [Uncovering Hidden Views of the Universe: PRIISM, an Imaging Tool for ALMA](https://alma-telescope.jp/en/news/priism-202611.html), press release from NAOJ/ALMA, PRIISM team, 2026
-- [PRIISM Science: Probing Substructures in Protoplanetary Disks (in Japanese)](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf), feature article in The Astronomical Herald (Tenmon Geppo 天文月報, Astronomical Society of Japan), Yamaguchi and Shoshi. 2026
+- [PRIISM Science: Probing Substructures in Protoplanetary Disks (in Japanese)](  https://www.asj.or.jp/geppou/article/2026/119-8_426.pdf), featured article in The Astronomical Herald (Tenmon Geppo 天文月報, Astronomical Society of Japan), Yamaguchi and Shoshi. 2026
 - [Ring Patterns Hint at an Unseen Planet and Self-Gravitational Dust Concentration (in Japanese)](https://www.kyushu-u.ac.jp/ja/researches/view/1597) , press release from Kyushu University Yamaguchi, 2026
   
 ## :mag_right: Ongoing Research Grants
